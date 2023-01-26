@@ -20,8 +20,6 @@ namespace Practise1
 
             Console.WriteLine("Entered value: " + b);
 
-
-
         }
 
     }
